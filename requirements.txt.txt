@@ -1,0 +1,7 @@
+opencv-python==4.13.0.92
+flet
+pyttsx3 
+openpyxl 
+deepface 
+flet-charts
+tf-keras
